@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+build/
+*.spec
+report_test.*
+*.html
+*.txt
